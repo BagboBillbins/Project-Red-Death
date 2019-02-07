@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-02-07T14:58:10.160-06:00
+  lastUpdatedAtString: 2019-02-07T15:00:06.513-06:00
   initializedAtString: 2019-02-07T14:40:39.894-06:00
   entries:
   - path: Library\gfu\cache\branches.yaml
@@ -22,11 +22,17 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Media\Programming\Game Engine Scripting\Project Red Death\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\gfu\cache\gitlog.yaml
     fullPath: C:\Media\Programming\Game Engine Scripting\Project Red Death\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Media\Programming\Game Engine Scripting\Project Red Death\Library\gfu\cache\gitstatusentries.yaml
@@ -37,6 +43,12 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Media\Programming\Game Engine Scripting\Project Red Death\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Media\Programming\Game Engine Scripting\Project Red Death\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0

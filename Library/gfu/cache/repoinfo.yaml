@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-02-07T14:40:37.436-06:00
+  lastUpdatedAtString: 2019-02-07T14:59:46.000-06:00
   initializedAtString: 2019-02-07T14:40:37.436-06:00
   currentGitRemote:
     name: origin
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/BagboBillbins/Project-Red-Death.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/BagboBillbins/Project-Red-Death.git

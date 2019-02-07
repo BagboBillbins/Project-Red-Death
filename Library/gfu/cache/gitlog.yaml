@@ -13,9 +13,45 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-02-07T14:58:09.952-06:00
+  lastUpdatedAtString: 2019-02-07T14:59:46.438-06:00
   initializedAtString: 2019-02-07T14:41:09.298-06:00
   log:
+  - commitID: d48294839043f05488ca1a755c26cbc9615c5e71
+    mergeA: 
+    mergeB: 
+    authorName: BagboBillbins
+    authorEmail: aaron.baer@loop.colum.edu
+    commitEmail: aaron.baer@loop.colum.edu
+    commitName: BagboBillbins
+    summary: more files?
+    description: more files?
+    timeString: 2019-02-07T14:58:23.000-06:00
+    commitTimeString: 2019-02-07T14:58:23.000-06:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Media\Programming\Game Engine Scripting\Project Red Death\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Media\Programming\Game Engine Scripting\Project Red Death\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Media\Programming\Game Engine Scripting\Project Red Death\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Media\Programming\Game Engine Scripting\Project Red Death\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 6d39754885c5e5a92a19c3edd85adddd87e727fc
     mergeA: 
     mergeB: 

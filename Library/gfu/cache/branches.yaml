@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-02-07T14:58:09.209-06:00
+  lastUpdatedAtString: 2019-02-07T14:59:46.019-06:00
   initializedAtString: 2019-02-07T14:41:12.521-06:00
   localBranches:
   - name: master
-    tracking: 
-  remoteBranches: []
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/BagboBillbins/Project-Red-Death.git
@@ -33,13 +35,22 @@ MonoBehaviour:
     values:
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/BagboBillbins/Project-Red-Death.git
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/BagboBillbins/Project-Red-Death.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
